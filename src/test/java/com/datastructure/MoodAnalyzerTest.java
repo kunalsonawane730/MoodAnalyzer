@@ -1,4 +1,4 @@
-package com.datastructure;
+/*package com.datastructure;
 
 import org.junit.Assert;
 import org.junit.Test;
@@ -17,4 +17,4 @@ public class MoodAnalyzerTest {
         String mood1 = moodAnalyzer.analyseMood("I am in happy mood");
         Assert.assertEquals(mood1, "HAPPY");
     }
-}
+}*/
